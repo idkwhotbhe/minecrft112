@@ -1,0 +1,26 @@
+timestamps:
+  login: 1673387890142
+  logout: 1673387987810
+  lastteleport: 1673293333374
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -14.699999988079064
+  y: 99.60348389370958
+  z: 565.5924861710849
+  yaw: -185.46552
+  pitch: 37.199997
+logoutlocation:
+  world: world
+  x: -0.7054439592313066
+  y: 65.0
+  z: 389.1223543084013
+  yaw: -179.76544
+  pitch: 4.7999907
+afk: false
+godmode: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

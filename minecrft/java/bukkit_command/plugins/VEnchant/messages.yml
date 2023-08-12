@@ -1,0 +1,42 @@
+ru:
+  wrong_sender_msg: 'Вы можете зачаровывать только в игре!!'
+  success: '&6Зачаровано!'
+  wrong_enchantment: 'Такого зачарования не существует!'
+  air_enchant: 'Не пытайтесь зачаровать свою руку &c=]'
+  reloaded: '&eКонфигурация перезагружена!'
+  item_has_no_natural_encs: 'Для этого предмета нет натуральных зачарований!'
+  perms:
+    reload: '&6Вам запрещено перезагружать VEnchant!'
+    all:
+      def: 'Вам запрещено чаровать всё на стандартный уровень!'
+      max: 'Вам запрещено чаровать всё на максимальный уровень!'
+      level: 'Вам запрещено чаровать всё на уровень "!!lvl!!"!'
+    natural:
+      def: 'Вам запрещено чаровать на стандартный уровень!'
+      max: 'Вам запрещено чаровать на максимальный уровень!'
+      level: 'Вам запрещено чаровать на уровень "!!lvl!!"!'
+    enc:
+      def: 'Вам запрещено чаровать "!!name!!" на стандартный уровень!'
+      max: 'Вам запрещено чаровать "!!name!!" на максимальный уровень!'
+      level: 'Вам запрещено чаровать "!!name!!" на уровень "!!lvl!!"!'
+en:
+  wrong_sender_msg: 'You can use VEnchant ingame only!'
+  success: '&6Enchanted!'
+  wrong_enchantment: 'Wrong enchantment name!'
+  air_enchant: 'Maybe u’ll not try to enchant your hand? &c=]'
+  reloaded: '&eConfig reloaded!'
+  item_has_no_natural_encs: 'There aren’t natural enchantments for this item!'
+  perms:
+    reload: '&6You don’t have permissions to reload VEnchant!'
+    all:
+      def: 'You don’t have permissions to enchant all to default level!'
+      max: 'You don’t have permissions to enchant all to max level!'
+      level: 'You don’t have permissions to enchant all to level "!!lvl!!"!'
+    natural:
+      def: 'You don’t have permissions to enchant to default level!'
+      max: 'You don’t have permissions to enchant to max level!'
+      level: 'You don’t have permissions to enchant to level "!!lvl!!"!'
+    enc:
+      def: 'You don’t have permissions to enchant "!!name!!" to default level!'
+      max: 'You don’t have permissions to enchant "!!name!!" to max level!'
+      level: 'You don’t have permissions to enchant "!!name!!" to level "!!lvl!!"!'
